@@ -1,9 +1,10 @@
 <h2 align="center">CoviL</h2>
 <p align="center">
 </p>
-
+<center>
 ![Screenshot](https://cdn.discordapp.com/avatars/675024865027162141/ced32c775b338bb621b0a7a46b214cf0.png?size=4096&ignore=true)
-# Instalação💻
+</center>
+ # Instalação💻
 ```
  git clonehttps://github.com/TyoNely/CoviL
  
