@@ -2,7 +2,7 @@
 <p align="center">
 </p>
 <center>
-![Screenshot](https://cdn.discordapp.com/avatars/675024865027162141/ced32c775b338bb621b0a7a46b214cf0.png?size=4096&ignore=true)
+<img src="[https://www.w3schools.com/images/w3schools_green.jpg](https://cdn.discordapp.com/avatars/675024865027162141/ced32c775b338bb621b0a7a46b214cf0.png?size=4096&ignore=true)" > 
 </center>
  # Instalação💻
 ```
