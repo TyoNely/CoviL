@@ -5,9 +5,10 @@
 ![Screenshot](https://cdn.discordapp.com/attachments/1062398209332363305/1062459021128388688/WhatsApp_Image_2023-01-10_at_16.52.00.jpeg)
 # Instalação💻
 ```
- git clone https://github.com/name
+ git clonehttps://github.com/TyoNely/CoviL
  
- cd name
+ cd CoviL
+ 
  pip3 install -r requirements.txt
  
  python3 main.py
