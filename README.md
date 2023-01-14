@@ -13,6 +13,4 @@
  python3 main.py
 ```
 **Um pequeno painel de consultas totalmente gratuito.😁**
-# TEste
-"# TEste" 
-# CoviL
+
